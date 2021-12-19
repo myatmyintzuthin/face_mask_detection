@@ -7,7 +7,7 @@
 ![webcam_test](https://github.com/myatmyintzuthin/face_mask_detection/blob/main/assets/webcam_test.gif)
 ------
 #### Dataset
-The [Aquarium Object Detection Dataset](https://github.com/myatmyintzuthin/face_mask_detection/releases/download/v1.0.0/face_mask_dataset.zip) is collected and annotated by Self-Study-Camp team members on 22 November 2021. The dataset consists of 208 images splitted into 168 train, 40 test images in XML format.
+The [Face mask Dataset](https://github.com/myatmyintzuthin/face_mask_detection/releases/download/v1.0.0/face_mask_dataset.zip) is collected and annotated by Self-Study-Camp team members on 22 November 2021. The dataset consists of 208 images splitted into 168 train, 40 test images in XML format.
 
 ![dataset.PNG](https://github.com/myatmyintzuthin/face_mask_detection/blob/main/assets/dataset.PNG)
 ------
